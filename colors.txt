@@ -5,3 +5,8 @@ black
 yellow
 white
 green
+gold 
+bronze 
+brown
+grey
+
