@@ -6,4 +6,4 @@ yellow
 white
 pink
 white
-java is fun
+все
