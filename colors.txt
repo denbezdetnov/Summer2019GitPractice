@@ -4,6 +4,4 @@ green
 black
 yellow
 white
-pink
-white
-все
+
