@@ -6,3 +6,4 @@ yellow
 white
 pink
 white
+все
